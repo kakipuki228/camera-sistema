@@ -1,9 +1,0 @@
-Canon, 1000 euro, compact, 2pcs, auto.
-Total price of body is 1100.0 euros
-
-Canon, 1500euro, Mirrorless, 5pcs, 200, canon f/1.8.
-Total price is 1950.0 euros
-
-Sony, 3000euro, mirrorless, 2pcs, 8000.
-Total price of body is 3100.0 euros
-
